@@ -31,3 +31,10 @@ Cleaned 541,909 messy retail transactions into a proper Data Warehouse using Pyt
 ## Result
 BEFORE: 541,909 rows (messy)
 AFTER: ~397k rows (clean) + Warehouse ready for SQL queries
+
+## 📁 Data Info
+
+- **Source:** https://archive.ics.uci.edu/dataset/352/online+retail
+- **Raw Rows:** 541,909
+- **Clean Rows:** 397,924
+- **Note:** Full CSVs not uploaded due to GitHub size limit. Run `online_retail_final.py` to recreate them locally.
