@@ -41,4 +41,5 @@ AFTER: 539,392 rows (clean) + Warehouse ready for SQL queries
 ## 📊 Dataset Preview
 Data cleaned: 541,909 -> 539,392 rows
 Live preview: [View Sample Data (20 rows)](sample_data.csv)
+
 Full columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country, IsCancelled, Amount
