@@ -37,3 +37,8 @@ AFTER: ~397k rows (clean) + Warehouse ready for SQL queries
 - **Raw Rows:** 541,909
 - **Clean Rows:** 397,924
 - **Note:** Full CSVs not uploaded due to GitHub size limit. Run `online_retail_final.py` to recreate them locally.
+
+## 📊 Dataset Preview
+Data cleaned: 541,909 -> 539,392 rows
+Live preview: [View Sample Data (20 rows)](sample_data.csv)
+Full columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country, IsCancelled, Amount
